@@ -1,0 +1,94 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgg"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="10dp">
+        <ImageView
+            android:layout_width="145dp"
+            android:layout_height="70dp"
+            android:gravity="left"
+            android:src="@drawable/pekalongan"/>
+        <ImageView
+            android:layout_width="155dp"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="75dp"
+            android:src="@drawable/unesco"/>
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="180dp"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/museum"/>
+
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Sekarang"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NOW ON MUSEUM"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Semua"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ALL COLLECTION"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Tentang"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INFORMATION"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Keluar"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CLOSE APP"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+
+
+</LinearLayout>

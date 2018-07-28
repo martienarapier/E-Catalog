@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">E-Catalog Batik</string>
+    <string name="cari">Data Koleksi</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="profil1">
+        Embrio lahirnya Museum Batik Pekalongan berasal dari gagasan yang terdapat dalam seminar batik Internasional pada festival batik kedua di Kota Pekalongan dengan tema “Batik dan Museum” yang membahas batik dari masa ke masa, mode, prospek pengelolaan, dan pemeliharaan batik yang diselenggarakan pada tanggal 15 sampai 18 September 2005.
+        Inisiatif pun muncul dari Paguyuban Berkah yang dimotori oleh Iman Sucipto Umar untuk membangun museum batik yang berskala nasional yang memenuhi syarat. Insiatif tersebut menadapatkan apresiasi dari berbagai kalangan tokoh pecinta batik, bahkan dari Pemerintah Kota Pekalongan (Riyanto, 2007: 11-12).
+    </string>
+    <string name="profil2">
+        Dalam waktu yang singkat pembahasan secara detail dan intensif dilakukan sejak bulan Januari hingga bulan Juli. Terbentuklah Yayasan Museum Batik Indonesia yang melibatkan Pemerintah Kota Pekalongan, Yayasan Batik Indonesia, Paguyuban Berkah, Yayasan Kadin, Paguyuban Pecinta Batik Pekalongan.
+        Berdirinya Museum Batik Pekalongan mewujudkan fungsi museum sebagai jendela kebudayaan dan jendela ekonomi. Jendela kebudayaan terwujud di dalam pelestarian dan sebagai sumber informasi kebudayaan dan nilai-nilai batik. Sedangkan jendela ekonomi terwujud di dalam industri dan usaha perbatikan yang meningkat.
+        Selain itu, juga merupakan wujud tanggung jawab Pemerintah Kota Pekalongan yang mempunyai tujuan meningkatkan kesejahteraan rakyat, memajukan seni dan budaya sekaligus mendukung tumbuhnya industri perbatikan (Riyanto, 2007: 13-14).
+    </string>
+    <string name="profil3">
+        Pada tanggal 12 Juli 2006, Museum Batik Pekalongan diresmikan oleh Presiden RI Soesilo Bambang Yudhoyono. Bertepatan dengan perayaan Hari Koperasi ke-59 secara nasional yang dipusatkan di Kota Pekalongan.
+        Ini menjadi sejarah baru bagi Kota Pekalongan di mana baru pertama kali sejak Negara Indonesia merdeka Presiden Republik Indonesia berkunjung ke Kota Pekalongan (Widadi, 2010: 39).
+    </string>
+    <string name="profil4">
+        Berdirinya Museum Batik Pekalongan bukan semata-mata sebagai refleksi batik Pekalongan melainkan batik Indonesia, karena komunitas yang memelopori berdirinya dan mengelola Museum Batik Pekalongan merupakan komunitas batik yang anggotanya berasal dari berbagai wilayah di Indonesia.
+        Selain itu, koleksi yang terdapat di Museum Batik Pekalongan juga berasal dari berbagai wilayah di Indonesia, bukan hanya berasal dari Pekalongan.
+    </string>
+    <string name="profil5">
+        Selain itu, Kota Pekalongan juga sangat tepat untuk dijadikan tempat berdirinya Museum Batik karena batik berkembang dan maju di Kota Pekalongan. Banyak ide kreatif dalam hal motif dan proses pembuatan batik muncul di Kota Pekalongan.
+        Oleh karena itu, Kota Pekalongan dijadikan tolak ukur perkembangan perbatikan di Indonesia. Sehingga tidak salah jika Kota Pekalongan dipilih menjadi tempat berdirinya Museum Batik dengan skala nasional.
+    </string>
+    <string name="visi">
+        Terwujudnya Museum Batik Pekalongan sebagai wadah untuk menggali, melestarikan, dan mengembangkan batik sebagai warisan budaya bangsa Indonesia serta pusat informasi yang perlu dikembangkan, dibina, dan dipelihara keberadaannya.
+    </string>
+    <string name="misi1">
+        Mendorong masyarakat Indonesia untuk peduli terhadap keberadaan Museum Batik Pekalongan sebagai wujud turut serta dalam pelestarian budaya Indonesia.
+    </string>
+    <string name="misi2">
+        Mendorong minat pengusaha/perajin batik untuk terus menggali dan melestarikan motif batik.
+    </string>
+    <string name="misi3">
+        Melakukan kegiatan dokumentasi, penelitian, penyajian informasi dan mengkomunikasikannya kepada masyarakat agar dapat dimanfaatkan sepenuhnya bagi kepentingan masyarakat.
+    </string>
+    <string name="misi4">
+        Memperluas lapangan kerja dan pemasaran.
+    </string>
+    <string name="tujuan1">
+        Terwujudnya Museum Batik di kota Pekalongan menjadi tempat pelestarian batik sebagai warisan budaya Indonesia.
+    </string>
+    <string name="tujuan2">
+        Terwujudnya Museum Batik sebagai tempat tujuan wisata.
+    </string>
+    <string name="tujuan3">
+        Terwujudnya tampilan pameran batik yang informatif dan edukatif.
+    </string>
+    <string name="tujuan4">
+        Terwujudnya informasi batik yang dapat diakses oleh masyarakat.
+    </string>
+    <string name="tujuan5">
+        Terwujudnya minat masyarakat terhadap budaya batik Indonesia.
+    </string>
+    <string name="tujuan6">
+        Terbentuknya hubungan kerjasama dalam lingkungan internasional.
+    </string>
+    <string name="now">
+        Menampilkan semua koleksi Museum Batik Pekalongan yang sedang dipamerkan. Dari ruang pamer 1 yang bertemakan Pekalongan, dan ruang pamer 2 yang bertemakan Nusantara, serta ruang pamer 3 yang bertemakan Buketan.
+    </string>
+    <string name="all">
+        Menampilkan semua koleksi Museum Batik Pekalongan berdasarkan kategori yang ada.
+    </string>
+    <string name="pedalaman">
+        Menampilkan semua koleksi Museum Batik Pekalongan yang berasal dari Solo, Yogyakarta, dan Surakarta.
+    </string>
+    <string name="pesisiran">
+        Menampilkan semua koleksi Museum Batik Pekalongan yang berasal dari Pekalongan, Lasem, dan Cirebon.
+    </string>
+    <string name="nusantara">
+        Menampilkan semua koleksi Museum Batik Pekalongan yang berasal dari selain Batik Pedalaman dan Batik Pesisiran.
+    </string>
+    <string name="kontemporer">
+        Menampilkan semua koleksi Museum Batik Pekalongan yang motif dan tekniknya merupakan perpaduan dengan seni lain.
+    </string>
+    <string name="mancanegara">
+        Menampilkan semua koleksi Museum Batik Pekalongan yang berasal dari luar negeri.
+    </string>
+    <string name="nonbatik">
+        Menampilkan semua koleksi Museum Batik Pekalongan selain kain batik, namun berhubungan dengan batik.
+    </string>
+    <string name="info">
+        Menampilkan informasi mengenai panduan aplikasi, profil Museum Batik Pekalongan, serta peta lokasi Museum Batik Pekalongan.
+    </string>
+
+</resources>

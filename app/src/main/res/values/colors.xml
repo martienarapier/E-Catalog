@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- warna utama. -->
+    <color name="colorPrimary">#607D8B</color>
+    <!-- warna utama gelap. -->
+    <color name="colorPrimaryDark">#37474F</color>
+    <!-- warna kontras. -->
+    <color name="colorAccent">#FF9100</color>
+    <color name="emas">#FF9412</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="biru">#1E90FF</color>
+    <color name="colorButton1">#616161</color>
+    <color name="colorButton2">#757575</color>
+    <color name="colorButton3">#F8F8FF</color>
+</resources>

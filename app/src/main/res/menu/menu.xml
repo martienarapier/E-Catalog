@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.learn2crack.recyclerviewsearch.MainActivity">
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView"/>
+
+    <item
+        android:title="Pencarian"
+        android:id="@+id/btnSearch"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always|withText" />
+    <item
+        android:title="Refresh"
+        android:id="@+id/btnRef"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_refresh"/>
+    <!--<item-->
+        <!--android:title="Sort Ascending"-->
+        <!--android:id="@+id/btnAsc"-->
+        <!--app:showAsAction="never" />-->
+    <!--<item-->
+        <!--android:title="Sort Descending"-->
+        <!--android:id="@+id/btnDes"-->
+        <!--app:showAsAction="never" />-->
+</menu>

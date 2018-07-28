@@ -1,0 +1,55 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgg"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Profil"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MUSEUM PROFILE"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Pandu"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="APP GUIDE"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Lokasi"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MAP LOCATION"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+
+
+
+
+</LinearLayout>

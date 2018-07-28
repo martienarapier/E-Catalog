@@ -1,0 +1,96 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgg"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Dalam"
+        android:layout_marginTop="110dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BATIK PEDALAMAN"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Sisir"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BATIK PESISIRAN"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Nusan"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BATIK NUSANTARA"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Kontem"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BATIK KONTEMPORER"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Manca"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BATIK MANCANEGARA"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btn_Nonbat"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NON BATIK"
+        android:textColor="@color/putih"
+        android:textStyle="bold"
+        app:pb_colorNormal="@color/colorButton2"
+        app:pb_colorPressed="@color/colorButton1"
+        app:pb_cornerRadius="4dp"
+        />
+
+
+
+</LinearLayout>
